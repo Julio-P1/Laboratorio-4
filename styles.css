@@ -1,0 +1,125 @@
+.navbar .navbar-nav .nav-item .nav-link{
+   
+    color: black;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+
+    color: #0E7C90;
+}
+
+:root {
+    --margin-search: #8b8a7c;
+    
+}
+
+#form-izq{
+    height: 50px;
+    width: 40px;
+    background-color: #FBFBF7;
+    border-top-left-radius: 60px 37px;
+    border-bottom-left-radius: 60px 37px;
+    border-left: var(--margin-search) solid 1px;
+    border-top: var(--margin-search) solid 1px;
+    border-bottom: var(--margin-search) solid 1px;
+}
+
+#form-der{
+    height: 50px;
+    width: 40px;
+    background-color: #FBFBF7;
+    border-top-right-radius: 60px 37px;
+    border-bottom-right-radius: 60px 37px;
+    border-right: var(--margin-search) solid 1px;
+    border-top: var(--margin-search) solid 1px;
+    border-bottom: var(--margin-search) solid 1px;
+}
+
+#form-center{
+    height: 50px;
+    width: 1000px;
+    background-color: #FBFBF7;
+    padding: 5px 5px;
+    border-top: var(--margin-search) solid 1px;
+    border-bottom: var(--margin-search) solid 1px;
+   
+}
+
+#input-search{
+    border: none;
+    background-color: #FBFBF7;
+    width: 800px;
+}
+
+#main-nav{
+    background-color: white;
+}
+
+.navbar{
+    background-color: white !important;
+    box-shadow: 1px 3px #8888883f
+}
+
+.clasesina{
+    background-color: yellowgreen;
+}
+
+.clasesina:hover{
+    background-color: red;
+}
+
+.jumbotron{
+    background-image: url('https://img-b.udemycdn.com/notices/home_banner/image_udlite/7cf844b2-4371-45ea-9ef5-e10ea212eac2.jpg')
+}
+
+#main-learn-search{
+    background-color: white;
+    width: 440px;
+    height: 245px;
+    padding-top: 34px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-family: "Segoe UI";
+    font-weight: 600;
+    color: #3c3b37;
+}
+
+#main-learn-search-input{
+    margin-top: 10px;
+    height: 44px;
+    border: var(--margin-search) solid 1px;
+
+}
+
+.container{
+    max-width: 1350px !important;
+}
+
+.main-courses-display{
+    background-color: thistle;
+    width: 100%;
+    height: 550px;
+    padding-left: 24px;
+    padding-top: 24px;
+    font-family: "Segoe UI";
+    color: #3c3b33;
+}
+
+.nav .nav-item p {
+    margin: 2px 10px;
+    
+}
+
+.nav {
+    padding-bottom: 10px !important;
+    border-bottom: var(--margin-search) solid 1px;
+}
+
+.course-list .row .col-sm {
+    margin-top: 20px;
+}
+.course-list .row .col-sm h6 {
+    color: #3C3B37;
+    font: "sf pro display", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol" ;
+}
+
