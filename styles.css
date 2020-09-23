@@ -179,4 +179,19 @@
     color: #ffffff;
 }
 
+.cat-principales{
+    height: 1024px;
+    background-color: thistle;
+    margin-top: 32px;
+}
+
+.cat-principales-title {
+    font-family: "Segoe UI";
+    font-size: 24px;
+}
+
+.row-de-categoria {
+    height: 430px;
+
+}
 
