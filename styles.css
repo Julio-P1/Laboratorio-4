@@ -180,7 +180,7 @@
 }
 
 .cat-principales{
-    height: 1024px;
+    height: 954px;
     background-color: thistle;
     margin-top: 32px;
 }
@@ -195,3 +195,16 @@
 
 }
 
+.titulo-card{
+    font-family: "Segoe UI";
+    font-size: 19px;
+}
+
+.seccion-instructor{
+    height: 520px;
+    background-color: green;
+}
+
+
+
+/*#FBFBF8*/
